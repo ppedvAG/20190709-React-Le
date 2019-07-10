@@ -1,0 +1,13 @@
+.title {
+    display: inline-block;
+    width: 30vw;
+}
+li input {
+    display: inline-block;
+    width: 30px;
+}
+.rating {
+    font-family: monospace;
+    font-size: 2em;
+    color: gold;
+}
